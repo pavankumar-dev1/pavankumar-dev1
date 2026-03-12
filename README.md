@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Pavan Kumar
 
-<!--
-**pavankumar-dev1/pavankumar-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student from Bangalore  
+💻 Python & Django Developer  
+🔐 Learning Cybersecurity  
+📱 Android Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Django
+- HTML & CSS
+- Linux Basics
+- Cybersecurity Fundamentals
+
+---
+
+## 📂 Projects
+🔹 Portfolio Website  
+https://pavanshetty123.github.io/resume-site/
+
+🔹 Resume Website  
+HTML based personal resume project
+
+🔹 CyberShield  
+Cybersecurity learning project
+
+---
+
+## 🌐 Connect with me
+GitHub: https://github.com/pavankumar-dev1  
+YouTube: https://youtube.com/@InsaneGamingbypavan
