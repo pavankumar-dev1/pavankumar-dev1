@@ -1,91 +1,158 @@
-# 👋 Hi, I'm Pavan Kumar
+# 👋 Hey, I'm Pavan Kumar
 
-💻 Passionate Full-Stack Developer | Python Enthusiast | Cybersecurity Learner
+<div align="center">
 
----
+💻 Full-Stack Developer in Progress • 🔐 Cybersecurity Enthusiast • 🤖 AI Builder
 
-## 🚀 About Me
+*"Building projects that solve real problems, one commit at a time."*
 
-🎓 BCA Student (India)  
-🐍 Learning Python & Django Development  
-🔐 Exploring Cybersecurity & Ethical Hacking  
-🌐 Building Web Applications and Automation Projects  
-📹 Content Creator on YouTube
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+🎓 Final Year BCA Student (India)
+
+💡 Currently building real-world software instead of just tutorial projects.
+
+🔥 Working on AI Assistants, Cybersecurity Tools, Web Applications and Automation.
+
+📚 Learning every day to become a Software Engineer.
+
+🎥 YouTube Creator sharing gaming content.
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-- Python
-- HTML5
-- CSS3
-- JavaScript (Learning)
+🐍 Python
 
-### Frameworks
-- Django
-- Flask (Learning)
+🌐 HTML • CSS • JavaScript
 
-### Database
-- SQLite
-- MySQL (Learning)
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
-- Windows
+🗄 SQL
 
 ---
 
-## 📂 Featured Projects
+### Frameworks & Libraries
 
-### 🌐 Portfolio Website
-Professional Portfolio & Resume Website
+• Django
+
+• Flask
+
+• Bootstrap
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Linux
+
+Windows
+
+SQLite
+
+MySQL
+
+---
+
+# 🛠 Featured Projects
+
+## 🤖 Sakhi AI Assistant
+
+A personal AI desktop assistant built with Python.
+
+Features include:
+
+• Voice Commands
+
+• Automation
+
+• System Control
+
+• AI Conversations
+
+• Productivity Tools
+
+---
+
+## 🛡 CyberShield
+
+A cybersecurity learning project focusing on
+
+• Password Security
+
+• Threat Detection
+
+• Security Best Practices
+
+---
+
+## 🌐 Portfolio Website
+
+Professional Resume Website
 
 🔗 https://pavanshetty123.github.io/resume-site/
 
 ---
 
-### 🛡️ CyberShield
-Cybersecurity learning project with practical experiments.
+## 🌐 VNC BCA Website
+
+College website project built for the BCA department.
 
 ---
 
-### 🤖 Sakhi AI Assistant
-A Python-based desktop AI assistant supporting voice commands and automation.
+# 🎯 2026 Goals
+
+✅ Become an Advanced Python Developer
+
+✅ Master Django
+
+✅ Learn Ethical Hacking
+
+✅ Contribute to Open Source
+
+✅ Build SaaS Products
+
+✅ Reach 2K+ YouTube Subscribers
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Currently Learning
 
-- Django Advanced
-- Cybersecurity
-- Linux
-- Networking
-- API Development
-- AI & Automation
+🐍 Advanced Python
 
----
+🌐 Django
 
-## 📊 GitHub Goals
+🔐 Cybersecurity
 
-✅ Build useful open-source projects
+☁ Cloud Computing
 
-✅ Contribute consistently
-
-✅ Improve coding every day
+🤖 AI Automation
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Connect With Me
 
-💻 GitHub  
+💻 GitHub
+
 https://github.com/pavankumar-dev1
 
-📺 YouTube  
+📺 YouTube
+
 https://youtube.com/@InsaneGamingbypavan
 
 ---
-⭐ Thanks for visiting my profile!
+
+<div align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</div>
