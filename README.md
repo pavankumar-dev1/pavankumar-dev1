@@ -1,158 +1,54 @@
-# 👋 Hey, I'm Pavan Kumar
+# Hi, I'm Pavan Kumar 👋
 
-<div align="center">
+Self-taught developer • BCA student • Building real software, not just tutorials
 
-💻 Full-Stack Developer in Progress • 🔐 Cybersecurity Enthusiast • 🤖 AI Builder
-
-*"Building projects that solve real problems, one commit at a time."*
-
-</div>
+[![YouTube](https://img.shields.io/badge/YouTube-Insane%20Pavan-red?logo=youtube)](https://youtube.com/@InsaneGamingbypavan)
 
 ---
 
-# 🚀 About Me
+## About Me
 
-🎓 Final Year BCA Student (India)
-
-💡 Currently building real-world software instead of just tutorial projects.
-
-🔥 Working on AI Assistants, Cybersecurity Tools, Web Applications and Automation.
-
-📚 Learning every day to become a Software Engineer.
-
-🎥 YouTube Creator sharing gaming content.
+- 🎓 Final-year BCA student, Vijayanagar College, Hosapete (Karnataka), affiliated with VSKU
+- 💻 Self-taught in Python, Django, and Android (Kotlin) — learned by building, not just following courses
+- 🔍 Currently working on a computer-vision dissertation project (real-time exam malpractice detection)
+- 🛡️ Interested in cybersecurity — built a Flask-based security toolkit (see pinned repos)
+- 🎥 Run a YouTube channel, **Insane Pavan**, covering gaming and tech
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-### Languages
-🐍 Python
+**Languages:** Python · Kotlin · HTML/CSS/JavaScript · SQL
 
-🌐 HTML • CSS • JavaScript
+**Frameworks & Libraries:** Django · Flask · OpenCV · MediaPipe · YOLOv8
 
-🗄 SQL
+**AI/API Integration:** Gemini API · Groq API
 
----
-
-### Frameworks & Libraries
-
-• Django
-
-• Flask
-
-• Bootstrap
+**Tools:** Git · GitHub · VS Code · Android Studio · Linux
 
 ---
 
-### Tools
+## Featured Work
 
-Git
+### 🛡️ [CyberShield](https://github.com/pavankumar-dev1/cybershield)
+A Flask-based cybersecurity toolkit — password strength analysis, breach checking, phishing URL detection, and WiFi risk assessment.
 
-GitHub
+### 🎓 AI-Based Real-Time Exam Malpractice Detection System
+Final-year dissertation project. Computer-vision pipeline using **YOLOv8**, **MediaPipe FaceLandmarker**, and **ByteTrack** for real-time monitoring. *(Not yet pushed to a public repo.)*
 
-VS Code
+### 🤖 SAKHI AI Assistant
+Personal AI assistant spanning a Python desktop app, a Django + Django Channels backend (deployed on Railway), and an Android (Kotlin) client with voice recognition, TTS, and phone control. *(Not yet pushed to a public repo.)*
 
-Linux
-
-Windows
-
-SQLite
-
-MySQL
+### 🌱 EarlyCropGuard
+Django + Gemini-powered crop risk assessment tool. *(Not yet pushed to a public repo.)*
 
 ---
 
-# 🛠 Featured Projects
+## 📫 Connect
 
-## 🤖 Sakhi AI Assistant
-
-A personal AI desktop assistant built with Python.
-
-Features include:
-
-• Voice Commands
-
-• Automation
-
-• System Control
-
-• AI Conversations
-
-• Productivity Tools
+- YouTube: [@InsaneGamingbypavan](https://youtube.com/@InsaneGamingbypavan)
+- GitHub: [@pavankumar-dev1](https://github.com/pavankumar-dev1)
 
 ---
 
-## 🛡 CyberShield
-
-A cybersecurity learning project focusing on
-
-• Password Security
-
-• Threat Detection
-
-• Security Best Practices
-
----
-
-## 🌐 Portfolio Website
-
-Professional Resume Website
-
-🔗 https://pavanshetty123.github.io/resume-site/
-
----
-
-## 🌐 VNC BCA Website
-
-College website project built for the BCA department.
-
----
-
-# 🎯 2026 Goals
-
-✅ Become an Advanced Python Developer
-
-✅ Master Django
-
-✅ Learn Ethical Hacking
-
-✅ Contribute to Open Source
-
-✅ Build SaaS Products
-
-✅ Reach 2K+ YouTube Subscribers
-
----
-
-# 📈 Currently Learning
-
-🐍 Advanced Python
-
-🌐 Django
-
-🔐 Cybersecurity
-
-☁ Cloud Computing
-
-🤖 AI Automation
-
----
-
-# 📫 Connect With Me
-
-💻 GitHub
-
-https://github.com/pavankumar-dev1
-
-📺 YouTube
-
-https://youtube.com/@InsaneGamingbypavan
-
----
-
-<div align="center">
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-</div>
+⭐ If any of this is useful to you, a star on the repos above helps a lot.
