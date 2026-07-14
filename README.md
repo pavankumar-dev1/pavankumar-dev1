@@ -51,6 +51,9 @@ Django + Gemini-powered crop risk assessment tool. *(Not yet pushed to a public 
 ### 🌐 Portfolio Site
 Personal portfolio with interactive canvas effects — [pavankumar.tech](https://pavankumar.tech). *(Site code not yet in a public repo.)*
 
+### 💬 WhatsApp Clone Backend
+Backend service replicating core WhatsApp messaging functionality. *(Not yet pushed to a public repo.)*
+
 ---
 
 ## 📫 Connect
