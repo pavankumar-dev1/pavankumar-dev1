@@ -20,7 +20,7 @@ Self-taught developer • BCA student • Building real software, not just tutor
 
 **Languages:** Python · Kotlin · HTML/CSS/JavaScript · SQL
 
-**Frameworks & Libraries:** Django · Flask · OpenCV · MediaPipe · YOLOv8
+**Frameworks & Libraries:** Django · Flask · OpenCV · MediaPipe · YOLOv8 · WebRTC
 
 **AI/API Integration:** Gemini API · Groq API
 
@@ -39,8 +39,17 @@ Final-year dissertation project. Computer-vision pipeline using **YOLOv8**, **Me
 ### 🤖 SAKHI AI Assistant
 Personal AI assistant spanning a Python desktop app, a Django + Django Channels backend (deployed on Railway), and an Android (Kotlin) client with voice recognition, TTS, and phone control. *(Not yet pushed to a public repo.)*
 
+### 💬 SecureChat
+End-to-end encrypted chat app built with Django and WebRTC. *(Not yet pushed to a public repo.)*
+
+### 🎙️ NOVA
+A Python voice assistant. *(Not yet pushed to a public repo.)*
+
 ### 🌱 EarlyCropGuard
 Django + Gemini-powered crop risk assessment tool. *(Not yet pushed to a public repo.)*
+
+### 🌐 Portfolio Site
+Personal portfolio with interactive canvas effects — [pavankumar.tech](https://pavankumar.tech). *(Site code not yet in a public repo.)*
 
 ---
 
