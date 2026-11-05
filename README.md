@@ -1,66 +1,60 @@
-# Hi, I'm Pavan Kumar 👋
+# Pavan Kumar
 
-Self-taught developer • BCA student • Building real software, not just tutorials
+**MCA Student — Cyber Security & Ethical Hacking | Python Developer**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Insane%20Pavan-red?logo=youtube)](https://youtube.com/@InsaneGamingbypavan)
+I build practical software, explore cybersecurity, and learn by shipping projects. Currently pursuing MCA in Cyber Security & Ethical Hacking at Yenepoya (Deemed to be University), Bengaluru.
 
----
-
-## About Me
-
-- 🎓 Final-year BCA student, Vijayanagar College, Hosapete (Karnataka), affiliated with VSKU
-- 💻 Self-taught in Python, Django, and Android (Kotlin) — learned by building, not just following courses
-- 🔍 Currently working on a computer-vision dissertation project (real-time exam malpractice detection)
-- 🛡️ Interested in cybersecurity — built a Flask-based security toolkit (see pinned repos)
-- 🎥 Run a YouTube channel, **Insane Pavan**, covering gaming and tech
+[Portfolio](https://www.pavankumar.tech) · [LinkedIn](https://www.linkedin.com/in/cyberpavankumar) · [Email](mailto:contactinsaneforenquiry@gmail.com) · [YouTube](https://youtube.com/@InsaneGamingbypavan)
 
 ---
 
-## Tech Stack
+## About
 
-**Languages:** Python · Kotlin · HTML/CSS/JavaScript · SQL
+- 🎓 MCA, Cyber Security & Ethical Hacking — Yenepoya University, Bengaluru
+- 🎓 BCA graduate — Vijayanagara College, Hospet
+- 💻 Focus areas: Python, Django, Flask, web development
+- 🔐 Learning: cybersecurity, ethical hacking, Linux and networking
+- 🤖 Interested in AI assistants, automation and privacy-focused tools
 
-**Frameworks & Libraries:** Django · Flask · OpenCV · MediaPipe · YOLOv8 · WebRTC
+## Technologies
 
-**AI/API Integration:** Gemini API · Groq API
+**Languages:** Python · HTML · CSS · JavaScript · SQL
 
-**Tools:** Git · GitHub · VS Code · Android Studio · Linux
+**Frameworks:** Django · Flask
+
+**Tools:** Git · GitHub · Linux · VS Code
+
+## Selected Projects
+
+### [CyberShield](https://github.com/pavankumar-dev1/cybershield)
+A Flask-based cybersecurity toolkit with password strength checking, phishing detection, Wi-Fi risk analysis, application permission checks and digital-footprint scanning.
+
+**Built with:** Python · Flask
+
+### [VNC BCA College Website CMS](https://github.com/pavankumar-dev1/vnc-bca)
+A database-driven content management system for a college website, with an admin dashboard for faculty, events, notices, gallery and site settings.
+
+**Built with:** Python · Flask · SQLAlchemy · SQLite
+
+### [Personal Portfolio](https://www.pavankumar.tech)
+A personal website presenting my background, skills and development work.
+
+## Currently Exploring
+
+- **Sakhi AI Assistant** — multilingual voice assistant and desktop automation (in progress).
+- **Personal Cyber Risk & Privacy Platform** — personal digital-risk assessment concept (in progress).
+
+## Learning & Certifications
+
+Cisco Networking Academy cybersecurity learning and Udemy Python coursework.
+
+## Connect
+
+- Portfolio: https://www.pavankumar.tech
+- LinkedIn: https://www.linkedin.com/in/cyberpavankumar
+- Email: contactinsaneforenquiry@gmail.com
+- YouTube: https://youtube.com/@InsaneGamingbypavan
 
 ---
 
-## Featured Work
-
-### 🛡️ [CyberShield](https://github.com/pavankumar-dev1/cybershield)
-A Flask-based cybersecurity toolkit — password strength analysis, breach checking, phishing URL detection, and WiFi risk assessment.
-
-### 🎓 AI-Based Real-Time Exam Malpractice Detection System
-Final-year dissertation project. Computer-vision pipeline using **YOLOv8**, **MediaPipe FaceLandmarker**, and **ByteTrack** for real-time monitoring. *(Not yet pushed to a public repo.)*
-
-### 🤖 SAKHI AI Assistant
-Personal AI assistant spanning a Python desktop app, a Django + Django Channels backend (deployed on Railway), and an Android (Kotlin) client with voice recognition, TTS, and phone control. *(Not yet pushed to a public repo.)*
-
-### 💬 SecureChat
-End-to-end encrypted chat app built with Django and WebRTC. *(Not yet pushed to a public repo.)*
-
-### 🎙️ NOVA
-A Python voice assistant. *(Not yet pushed to a public repo.)*
-
-### 🌱 EarlyCropGuard
-Django + Gemini-powered crop risk assessment tool. *(Not yet pushed to a public repo.)*
-
-### 🌐 Portfolio Site
-Personal portfolio with interactive canvas effects — [pavankumar.tech](https://pavankumar.tech). *(Site code not yet in a public repo.)*
-
-### 💬 WhatsApp Clone Backend
-Backend service replicating core WhatsApp messaging functionality. *(Not yet pushed to a public repo.)*
-
----
-
-## 📫 Connect
-
-- YouTube: [@InsaneGamingbypavan](https://youtube.com/@InsaneGamingbypavan)
-- GitHub: [@pavankumar-dev1](https://github.com/pavankumar-dev1)
-
----
-
-⭐ If any of this is useful to you, a star on the repos above helps a lot.
+*Learn continuously. Build thoughtfully. Secure what matters.*
