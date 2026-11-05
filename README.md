@@ -9,6 +9,7 @@ Building practical software, exploring cybersecurity, and learning by creating.
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavankumar.tech-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pavankumar.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyberpavankumar)
 [![YouTube](https://img.shields.io/badge/YouTube-Insane_Pavan-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@InsaneGamingbypavan)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1502--7723-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1502-7723)
 
 </div>
 
@@ -89,6 +90,7 @@ Outside development, I create gaming and technology content on **[Insane Pavan](
 - 💼 **LinkedIn:** [cyberpavankumar](https://www.linkedin.com/in/cyberpavankumar)
 - 📺 **YouTube:** [Insane Pavan](https://youtube.com/@InsaneGamingbypavan)
 - 📧 **Email:** [contactpavanforenquiry@gmail.com](mailto:contactpavanforenquiry@gmail.com)
+- **ORCID:** [0009-0007-1502-7723](https://orcid.org/0009-0007-1502-7723)
 
 ---
 
