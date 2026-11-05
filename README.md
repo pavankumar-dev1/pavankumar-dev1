@@ -89,7 +89,7 @@ I'm always interested in learning from other developers, discussing projects, an
 - 🌐 **Portfolio:** [pavankumar.tech](https://pavankumar.tech)
 - 💼 **LinkedIn:** [cyberpavankumar](https://www.linkedin.com/in/cyberpavankumar)
 - 📺 **YouTube:** [Insane Pavan](https://youtube.com/@InsaneGamingbypavan)
-- 📧 **Email:** [contactinsaneforenquiry@gmail.com](mailto:contactinsaneforenquiry@gmail.com)
+- 📧 **Email:** [contactpavanforenquiry@gmail.com](mailto:contactpavanforenquiry@gmail.com)
 
 ---
 
